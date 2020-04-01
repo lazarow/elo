@@ -1,0 +1,16 @@
+{
+    "name": "lazarow/elo",
+    "description": "The special function \"elo\" that replaces the standard \"var_dump\" method with the \"Yakalelo\" phrase.",
+    "type": "library",
+    "license": "MIT",
+	"autoload": {
+		"files": ["./common.php"]
+	},
+    "authors": [
+        {
+            "name": "Arkadiusz Nowakowski",
+            "email": "nowakowski.arkadiusz@gmail.com"
+        }
+    ],
+    "require": {}
+}
