@@ -1,6 +1,6 @@
 {
     "name": "lazarow/elo",
-    "description": "The special function \"elo\" that replaces the standard \"var_dump\" method with the \"Yakalelo\" phrase.",
+    "description": "The special function \"elo\" that can be used instead of the standard \"var_dump\" method with the \"Yakalelo\" phrase.",
     "type": "library",
     "license": "MIT",
 	"autoload": {
